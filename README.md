@@ -1,6 +1,6 @@
 <p align="center"><h1>🧠 Awesome-ChatGPT </h1></p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,693 | 🐛 106 | 📅 2026-08-21 [![Stars](https://img.shields.io/github/stars/dalinvip/Awesome-ChatGPT)](https://github.com/dalinvip/Awesome-ChatGPT) ⭐ 4,190 | 🐛 5 | 📅 2025-06-04 [![Issues](https://img.shields.io/github/issues/dalinvip/Awesome-ChatGPT)](https://github.com/dalinvip/Awesome-ChatGPT/issues) ⭐ 4,190 | 🐛 5 | 📅 2025-06-04
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,706 | 🐛 106 | 📅 2026-08-21 [![Stars](https://img.shields.io/github/stars/dalinvip/Awesome-ChatGPT)](https://github.com/dalinvip/Awesome-ChatGPT) ⭐ 4,190 | 🐛 5 | 📅 2025-06-04 [![Issues](https://img.shields.io/github/issues/dalinvip/Awesome-ChatGPT)](https://github.com/dalinvip/Awesome-ChatGPT/issues) ⭐ 4,190 | 🐛 5 | 📅 2025-06-04
 
 ChatGPT资料汇总学习，持续更新......\
 ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程上的里程碑事件，还是噱头炒作，持续关注，让时间流淌\~
@@ -138,9 +138,9 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 【GitHub】[在微信上迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,238 | 🐛 53 | 🌐 TypeScript | 📅 2024-05-20\
 【GitHub】[Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.](https://github.com/acheong08/ChatGPT) ⚠️ Archived\
-【github】[This is a collection of prompt examples to be used with the ChatGPT model.](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,869 | 🐛 69 | 🌐 HTML | 📅 2026-08-25\
+【github】[This is a collection of prompt examples to be used with the ChatGPT model.](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,871 | 🐛 69 | 🌐 HTML | 📅 2026-08-25\
 【GitHub】[ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,456 | 🐛 942 | 🌐 Rust | 📅 2024-08-29\
-【GitHub】[ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,793 | 🐛 46 | 📅 2026-04-28\
+【GitHub】[ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,794 | 🐛 46 | 📅 2026-04-28\
 【GitHub】[Node.js client for the unofficial ChatGPT API.](https://github.com/transitive-bullshit/chatgpt-api) ⚠️ Archived\
 【GitHub】[几步即可获得一个基于 ChatGPT 的微信机器人](https://github.com/AutumnWhj/ChatGPT-wechat-bot) ⭐ 4,711 | 🐛 105 | 🌐 TypeScript | 📅 2025-10-23\
 【GitHub】[ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension) ⭐ 13,049 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14\
