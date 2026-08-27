@@ -36,7 +36,7 @@
             "last_commit": "2024-05-20T09:44:41Z",
             "owner": "fuergaosi233",
             "repo": "wechat-chatgpt",
-            "stars": 13238
+            "stars": 13237
           }
         }
       ],
@@ -86,9 +86,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:01:40.522Z",
-    "original_repository": "dalinvip/Awesome-ChatGPT",
-    "original_repository_id": 598099426,
+    "last_updated": "2026-08-27T11:27:32.672Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 598099426,
+      "language": null,
+      "last_commit": "2025-06-04T23:58:00Z",
+      "owner": "dalinvip",
+      "repo": "Awesome-ChatGPT",
+      "stars": 4189
+    },
     "original_repository_sha": "d7e8ee1e5cb93de354a939e7b6e7fdb806af920e",
     "enhanced_repository": "enhansome/enhansome-Awesome-ChatGPT",
     "enhanced_repository_description": null,
