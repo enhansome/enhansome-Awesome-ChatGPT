@@ -16,7 +16,8 @@
             "owner": "txsun1997",
             "repo": "MOSS",
             "stars": 738
-          }
+          },
+          "first_seen": "2026-08-28T17:40:02.801Z"
         }
       ],
       "title": "中文ChatGPT"
@@ -37,7 +38,8 @@
             "owner": "fuergaosi233",
             "repo": "wechat-chatgpt",
             "stars": 13237
-          }
+          },
+          "first_seen": "2026-08-28T17:40:02.801Z"
         }
       ],
       "title": "GitHub-ChatGPT"
@@ -57,8 +59,9 @@
             "last_commit": "2026-07-19T19:09:29Z",
             "owner": "BlinkDL",
             "repo": "ChatRWKV",
-            "stars": 9499
-          }
+            "stars": 9498
+          },
+          "first_seen": "2026-08-28T17:40:02.801Z"
         }
       ],
       "title": "GitHub-ChatGPT-周边"
@@ -79,14 +82,15 @@
             "owner": "Morizeyao",
             "repo": "GPT2-Chinese",
             "stars": 7597
-          }
+          },
+          "first_seen": "2026-08-28T17:40:02.801Z"
         }
       ],
       "title": "GitHub-GPT系列"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:40:17.257Z",
+    "last_updated": "2026-08-28T17:40:02.801Z",
     "original_repository_info": {
       "archived": false,
       "id": 598099426,
