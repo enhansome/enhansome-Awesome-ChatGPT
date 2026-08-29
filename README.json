@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MOSS is a conversational language model like ChatGPT.",
+            "homepage": null,
             "id": 596458276,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2023-04-20T18:59:08Z",
+            "open_issues": 10,
             "owner": "txsun1997",
             "repo": "MOSS",
-            "stars": 738
+            "stars": 738,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:02.801Z"
         }
@@ -32,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use ChatGPT On Wechat via wechaty",
+            "homepage": null,
             "id": 574965758,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-05-20T09:44:41Z",
+            "open_issues": 53,
             "owner": "fuergaosi233",
             "repo": "wechat-chatgpt",
-            "stars": 13237
+            "stars": 13236,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:02.801Z"
         }
@@ -54,12 +64,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+            "homepage": null,
             "id": 588477692,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-19T19:09:29Z",
+            "open_issues": 61,
             "owner": "BlinkDL",
             "repo": "ChatRWKV",
-            "stars": 9498
+            "stars": 9498,
+            "topics": [
+              "chatbot",
+              "chatgpt",
+              "language-model",
+              "pytorch",
+              "rnn",
+              "rwkv"
+            ]
           },
           "first_seen": "2026-08-28T17:40:02.801Z"
         }
@@ -76,12 +98,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chinese version of GPT2 training code, using BERT tokenizer.",
+            "homepage": null,
             "id": 189511050,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-25T09:14:25Z",
+            "open_issues": 109,
             "owner": "Morizeyao",
             "repo": "GPT2-Chinese",
-            "stars": 7597
+            "stars": 7597,
+            "topics": [
+              "chinese",
+              "gpt-2",
+              "nlp",
+              "text-generation",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T17:40:02.801Z"
         }
@@ -90,15 +123,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:40:02.801Z",
+    "last_updated": "2026-08-29T04:17:20.133Z",
     "original_repository_info": {
       "archived": false,
+      "description": "ChatGPT资料汇总学习，持续更新......",
+      "homepage": null,
       "id": 598099426,
       "language": null,
+      "license": null,
       "last_commit": "2025-06-04T23:58:00Z",
+      "open_issues": 5,
       "owner": "dalinvip",
       "repo": "Awesome-ChatGPT",
-      "stars": 4189
+      "stars": 4189,
+      "topics": [
+        "ai",
+        "awesome",
+        "chatgpt",
+        "deep-learning",
+        "gpt",
+        "gpt-3",
+        "nlp",
+        "openai",
+        "reinforcement-learning"
+      ]
     },
     "original_repository_sha": "d7e8ee1e5cb93de354a939e7b6e7fdb806af920e",
     "enhanced_repository": "enhansome/enhansome-Awesome-ChatGPT",
