@@ -46,7 +46,7 @@
             "open_issues": 53,
             "owner": "fuergaosi233",
             "repo": "wechat-chatgpt",
-            "stars": 13236,
+            "stars": 13237,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:02.801Z"
@@ -73,7 +73,7 @@
             "open_issues": 61,
             "owner": "BlinkDL",
             "repo": "ChatRWKV",
-            "stars": 9499,
+            "stars": 9500,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -123,7 +123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:37:46.546Z",
+    "last_updated": "2026-08-31T11:47:16.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "ChatGPT资料汇总学习，持续更新......",
