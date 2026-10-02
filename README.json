@@ -46,7 +46,7 @@
             "open_issues": 53,
             "owner": "fuergaosi233",
             "repo": "wechat-chatgpt",
-            "stars": 13233,
+            "stars": 13234,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:02.801Z"
@@ -107,7 +107,7 @@
             "open_issues": 109,
             "owner": "Morizeyao",
             "repo": "GPT2-Chinese",
-            "stars": 7596,
+            "stars": 7595,
             "topics": [
               "chinese",
               "gpt-2",
@@ -123,7 +123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:46:11.384Z",
+    "last_updated": "2026-10-02T11:16:27.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "ChatGPT资料汇总学习，持续更新......",
@@ -135,7 +135,7 @@
       "open_issues": 5,
       "owner": "dalinvip",
       "repo": "Awesome-ChatGPT",
-      "stars": 4193,
+      "stars": 4194,
       "topics": [
         "ai",
         "awesome",
