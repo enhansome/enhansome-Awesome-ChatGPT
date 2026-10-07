@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "txsun1997",
             "repo": "MOSS",
-            "stars": 738,
+            "stars": 737,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:02.801Z"
@@ -123,7 +123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T12:11:01.676Z",
+    "last_updated": "2026-10-07T11:57:05.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "ChatGPT资料汇总学习，持续更新......",
@@ -135,7 +135,7 @@
       "open_issues": 5,
       "owner": "dalinvip",
       "repo": "Awesome-ChatGPT",
-      "stars": 4196,
+      "stars": 4197,
       "topics": [
         "ai",
         "awesome",
